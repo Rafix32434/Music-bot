@@ -1,6 +1,6 @@
 module.exports = {
     app: {
-        token: process.env.DISCORD_TOKEN || 'MTUxMjM2MTUzMDY2MDg4NDQ4MA.GXXbn6.PripJi2m6UkQ7zp3C2HV5CU65ksotafiIcoj3w',
+        token: process.env.DISCORD_TOKEN || '',
         playing: 'Work By Rafix32434 ❤️',
         global: true,
         guild: process.env.GUILD_ID || '',
